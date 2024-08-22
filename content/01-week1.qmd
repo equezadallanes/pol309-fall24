@@ -12,7 +12,9 @@ title: "Week 1: What is Political Psychology?"
 ### Wednesday, August 28
 
 - [Syllabus](../index.qmd)
+
 - Rahn, Wendy M., John L. Sullivan, and Thomas J. Rudolph. 2002. "Political Psychology and Political Science." In *Thinking About Political Psychology,* ed, James H. Kuklinski. New York: Cambridge University Press, 155-86. {{< fa file-pdf >}} available on Canvas.
+
 - Krosnick, Jon A. 2002. "Is Political Psychology Sufficiently Psychological? Distinguishing Political Psychology from Psychological Political Science." In *Thinking About Political Psychology,* ed, James H. Kuklinski. New York: Cambridge University Press, 187-216. {{< fa file-pdf >}} available on Canvas.
 
 

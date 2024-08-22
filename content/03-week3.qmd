@@ -1,0 +1,22 @@
+---
+title: "Week 3: Social Identity Theory (cont.)"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 3 - Social Identity Theory (cont.)
+
+:::
+
+[//]: <> (Need to write intro)
+
+### Monday, September 9
+
+- Brewer, Marilynn B. 2016. "Intergroup Discrimination: Ingroup Love or Outgroup Hate?" In *The Social Psychology of Intergroup Relations*, edited by Chris G. Sibley and Fiona Kate Barlow, 90–110. Cambridge, United Kingdom: Cambridge University Press. {{< fa file-pdf >}} available on Canvas. {{< fa pen >}}
+
+ 
+
+### Wednesday, September 11
+
+- Rubin, Mark, Constantina Badea, and Jolanda Jetten. 2014. "Low Status Groups Show In-Group Favoritism to Compensate for Their Low Status and Compete for Higher Status." *Group Processes & Intergroup Relations* 17 (5): 563–76. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1177%2F1368430213514122)
+

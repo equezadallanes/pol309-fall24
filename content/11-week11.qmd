@@ -1,0 +1,23 @@
+---
+title: "Week 11: Personality Traits"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 11 - Personality Traits
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, November 4
+
+- Johnston, Christopher D., and Julie Wronski. 2015. "Personality Dispositions and Political Preferences Across Hard and Easy Issues." *Political Psychology* 36 (1): 35–53. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=http%3A%2F%2Fdoi.wiley.com%2F10.1111%2Fpops.12068)
+
+
+
+### Wednesday, November 6
+
+- Pérez, Efrén O., and Marc J. Hetherington. 2014. "Authoritarianism in Black and White: Testing the Cross-Racial Validity of the Child Rearing Scale." *Political Analysis* 22 (3): 398–412. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fwww.jstor.org%2Fstable%2F24573077) {{< fa pen >}}
+

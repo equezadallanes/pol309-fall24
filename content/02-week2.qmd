@@ -1,0 +1,19 @@
+---
+title: "Week 2: Social Identity Theory"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 2 - Social Identity Theory
+
+:::
+
+
+### Monday, September 2
+
+NO CLASS. Labor Day Holiday.
+
+
+### Wednesday, September 4
+
+- Tajfel, Henri, and John C. Turner. 1979. "An Integrative Theory of Intergroup Conflict." In *The Social Psychology of Intergroup Relations*, edited by Stephen Worchel and William G. Austin, 33–47. Monterey, CA: Brooks-Cole. {{< fa file-pdf >}} available on Canvas. {{< fa pen >}}

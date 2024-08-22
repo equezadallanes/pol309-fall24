@@ -1,0 +1,20 @@
+---
+title: "Week 17: Final Paper"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 17 - Final Paper
+
+:::
+
+
+Sometime between December 13 and 18.
+
+:::{.callout-important}
+
+### Deadline
+
+[Final draft of research design paper](../assignment/final-paper.qmd) due Wednesday, December 18, at 5 pm on Canvas
+
+:::

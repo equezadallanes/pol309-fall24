@@ -1,0 +1,37 @@
+---
+title: "Week 6: Theories of Cognition and Memory"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 6 - Theories of Cognition and Memory
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, September 30
+
+- Lodge, Milton, Charles Taber, and Christopher Weber. 2006. "First Steps Toward a Dual-Process Accessibility Model of Political Beliefs, Attitudes, and Behavior." In *Feeling Politics: Emotion in Political Information Processing*, edited by David P. Redlawsk, 11–30. Springer. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Febookcentral.proquest.com%2Flib%2Fagnesscott%2Freader.action%3FdocID%3D307783%26ppg%3D30) {{< fa pen >}}
+
+
+
+### Wednesday, October 2
+
+- [Literature review assignment](../assignment/literature-review.qmd)
+
+- [Guide on writing a literature review in political science](https://libguides.seattleu.edu/c.php?g=705070&p=5006769)
+
+
+ 
+::: {.content-visible when-format="html"}
+
+---
+ 
+### Further Reading
+
+- - Lodge, Milton, and Charles S. Taber. 2013. "The *John Q. Public* Model of Political Information Processing." In *The Rationalizing Voter.* Cambridge Studies in Public Opinion and Political Psychology. Cambridge: Cambridge University Press.
+
+
+:::

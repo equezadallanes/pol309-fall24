@@ -1,0 +1,34 @@
+---
+title: "Week 10: The Media Environment: Framing and Priming"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 10 - The Media Environment: Framing and Priming
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, October 28
+
+- Nelson, Thomas E., Rosalee A. Clawson, and Zoe M. Oxley. 1997. "Media Framing of a Civil Liberties Conflict and Its Effect on Tolerance." *American Political Science Review* 91 (3): 567–83. {{< fa file-pdf >}} available on Canvas. {{< fa pen >}}
+
+- Valentino, Nicholas A., Vincent L. Hutchings, and Ismail K. White. 2002. "Cues That Matter: How Political Ads Prime Racial Attitudes during Campaigns." *American Political Science Review* 96 (1): 75–90. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=http%3A%2F%2Fwww.jstor.org%2Fstable%2F3117811)
+
+
+
+
+### Wednesday, October 30
+
+- Peterson, Erik, and Ali Kagalwala. 2021. "When Unfamiliarity Breeds Contempt: How Partisan Selective Exposure Sustains Oppositional Media Hostility." *American Political Science Review* 115 (2): 585–98. {{< fa file-pdf >}} available on Canvas.
+
+
+:::{.callout-important}
+
+### Deadline
+
+[Literature review](../assignment/literature-review.qmd) due Friday, November 1, at 11:59pm on Canvas
+
+:::

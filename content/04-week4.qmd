@@ -1,0 +1,31 @@
+---
+title: "Week 4: Partisanship and Ideology as Social Identities"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 4 - Partisanship and Ideology as Social Identities
+
+:::
+
+[//]: <> (Need to write intro)
+
+### Monday, September 16
+
+- Conover, Pamela Johnston, and Stanley Feldman. 1981. "The Origins and Meaning of Liberal/Conservative Self-Identifications." *American Journal of Political Science* 25 (4): 617-645. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.2307%2F2110756)
+
+
+
+
+### Wednesday, September 18
+
+- Huddy, Leonie, Lilliana Mason, and Lene Aarøe. 2015. "Expressive Partisanship: Campaign Involvement, Political Emotion, and Partisan Identity." *American Political Science Review* 109 (1): 1–17. {{< fa file-pdf >}} available on Canvas. {{< fa pen >}}
+
+
+
+
+
+
+ 
+
+

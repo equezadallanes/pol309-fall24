@@ -1,0 +1,28 @@
+---
+title: "Week 12: Emotions in Politics"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 12 - Emotions in Politics
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, November 11
+
+- Discuss Theory and Research Design
+
+
+
+
+### Wednesday, November 13
+
+- Gadarian, Shana Kushner, and Ted Brader. year. 2023. "Emotion and Political Psychology." In *The Oxford Handbook of Political Psychology*, edited by Leonie Huddy, David O. Sears, Jack S. Levy, and Jennifer Jerit, 11–30. New York: Oxford University Press. {{< fa file-pdf >}} available on Canvas.
+
+
+
+
+

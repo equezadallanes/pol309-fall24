@@ -1,0 +1,21 @@
+---
+title: "Week 13: Emotions in Politics"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 13 - Emotions in Politics
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, November 18
+
+- Valentino, Nicholas A., Ted Brader, Eric W. Groenendyk, Krysha Gregorowicz, and Vincent L. Hutchings. 2011. "Election Night's Alright for Fighting: The Role of Emotions in Political Participation." *Journal of Politics* 73 (1): 156–70. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fwww.jstor.org%2Fstable%2F10.1017%2Fs0022381610000939) {{< fa pen >}}
+
+
+### Wednesday, November 20
+
+- Gadarian, Shana Kushner, and Bethany Albertson. 2014. "Anxiety, Immigration, and the Search for Information." *Political Psychology* 35 (2): 133–64. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1111%2Fpops.12034)

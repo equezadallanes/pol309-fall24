@@ -1,0 +1,25 @@
+---
+title: "Week 16: Gender Stereotypes"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 16 - Gender Stereotypes
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, December 9
+
+- Bauer, Nichole M. 2020. "Shifting Standards: How Voters Evaluate the Qualifications of Female and Male Candidates." *Journal of Politics* 82 (1): 1–12. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fresearch.ebsco.com%2Flinkprocessor%2Fplink%3Fid%3De413246f-3ec0-3f29-bb73-135fd36758c0) {{< fa pen >}}
+
+
+
+### Wednesday, December 11
+
+- Winter, Nicholas J. G. 2010. "Masculine Republicans and Feminine Democrats: Gender and Americans’ Explicit and Implicit Images of the Political Parties." *Political Behavior* 32 (4): 587–618. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1007%2Fs11109-010-9131-z)
+
+
+

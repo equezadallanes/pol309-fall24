@@ -1,0 +1,25 @@
+---
+title: "Week 9: Information Processing and Heuristics"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 9 - Information Processing and Heuristics
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, October 21
+
+- Coronel, Jason C., Melissa C. Duff, David E. Warren, Kara D. Federmeier, Brian D. Gonsalves, Daniel Tranel, and Neal J. Cohen. 2012. "Remembering and Voting: Theory and Evidence from Amnesic Patients." *American Journal of Political Science* 56 (4): 837–48. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1111%2Fj.1540-5907.2012.00608.x)
+
+
+
+### Wednesday, October 23
+
+- Swire-Thompson, Briony, Ullrich K. H. Ecker, Stephan Lewandowsky, and Adam J. Berinsky. 2020. "They Might Be a Liar but They’re My Liar: Source Evaluation and the Prevalence of Misinformation." *Political Psychology* 41 (1): 21–34. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1111%2Fpops.12586) {{< fa pen >}}
+
+
+

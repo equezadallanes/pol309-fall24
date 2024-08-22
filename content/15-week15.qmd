@@ -1,0 +1,26 @@
+---
+title: "Week 15: Racial Stereotypes and Prejudice"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 15 - Racial Stereotypes and Prejudice
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, December 2
+
+- Devine, Patricia G. 1989. "Stereotypes and Prejudice: Their Automatic and Controlled Components." *Journal of Personality and Social Psychology* 56 (1): 5–18. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fresearch.ebsco.com%2Flinkprocessor%2Fplink%3Fid%3Daa7e86ce-b18e-3dc4-8f34-bc63d2846542)
+
+
+
+
+### Wednesday, December 4
+
+- Krupnikov, Yanna, and Spencer Piston. 2015. "Racial Prejudice, Partisanship, and White Turnout in Elections with Black Candidates." *Political Behavior* 37 (2): 397–418. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1007%2Fs11109-014-9268-2) {{< fa pen >}}
+
+- Krupnikov, Yanna, and Spencer Piston. 2016. "The Political Consequences of Latino Prejudice against Blacks." *Public Opinion Quarterly* 80 (2): 480–509. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1093%2Fpoq%2Fnfw013)
+

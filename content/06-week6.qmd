@@ -21,7 +21,7 @@ title: "Week 6: Theories of Cognition and Memory"
 
 - [Literature review assignment](../assignment/literature-review.qmd)
 
-- [Guide on writing a literature review in political science](https://libguides.seattleu.edu/c.php?g=705070&p=5006769)
+- [Guide on writing a literature review in political science](https://guides.library.ucsc.edu/write-a-literature-review) (link updated)
 
 
  

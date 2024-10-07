@@ -13,8 +13,16 @@ title: "Week 7: Knowledge and Sophistication"
 
 ### Monday, October 7
 
-- Dalton, Russell J. 2019. "The Nature of Citizen Beliefs." In *Citizen Politics: Public Opinion and Political Parties in Advanced Industrial Democracies. Seventh Edition.* Los Angeles, California: SAGE, CQ Press. (Chapter 2: 15-38). [{{< fa university >}}]().
+- Dalton, Russell J. 2019. "The Nature of Citizen Beliefs." In *Citizen Politics: Public Opinion and Political Parties in Advanced Industrial Democracies. Seventh Edition.* Los Angeles, California: SAGE, CQ Press. (Chapter 2: 15-38). {{< fa file-pdf >}} available on Canvas.
 
+::: {.content-visible when-format="html"}
+
+
+#### In class activity
+
+- Quiz: ["What do you know about the U.S. government?"](https://www.pewresearch.org/politics/quiz/what-do-you-know-about-the-u-s-government/)
+
+:::
 
 
 ### Wednesday, October 9

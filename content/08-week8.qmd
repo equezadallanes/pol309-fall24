@@ -19,6 +19,6 @@ NO CLASS. Fall Break.
 
 ### Wednesday, October 16
 
-- Jerit, Jennifer, and Yangzi Zhao. 2020. "Political Misinformation." *Annual Review of Political Science* 23 (1): 77–94. [{{< fa university >}}](https://go.openathens.net/redirector/agnesscott.edu?url=https%3A%2F%2Fdoi.org%2F10.1146%2Fannurev-polisci-050718-032814) {{< fa pen >}}
+- Jerit, Jennifer, and Yangzi Zhao. 2020. "Political Misinformation." *Annual Review of Political Science* 23 (1): 77–94. [{{< fa university >}}](https://doi.org/10.1146/annurev-polisci-050718-032814) {{< fa pen >}}
 
 
